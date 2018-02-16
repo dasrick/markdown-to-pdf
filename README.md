@@ -1,2 +1,2 @@
-# markdown-to-pdf
+# Markdown to PDF
 Markdown to PDF converter ...
